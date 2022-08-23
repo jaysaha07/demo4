@@ -1,0 +1,42 @@
+.header{
+	height: 200px;
+	background-color: greenyellow;
+}
+.conteinar{
+	overflow: hidden;
+	border: 8px solid navy;
+}
+.blog{
+	float: left;
+	width: 40%;
+	height: 200px;
+	background-color: red;
+}
+.contact{
+	float: right;
+	width: 60%;
+	height: 200px;
+	background: magenta;
+}
+.wrappar{
+	overflow: hidden;
+}
+.box{
+	float: left;
+	width: 33.33%;
+	height: 200px;
+}
+.orange{
+	background-color: orange;
+}
+.limegreen{
+	background-color: limegreen;
+}
+.yellow{
+	background-color: yellow;
+}
+.footer{
+	height: 200px;
+	background-color: maroon;
+	clear: both;
+}
